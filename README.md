@@ -1,4 +1,4 @@
-# 🧠🗣️ Brain2Text: Decoding Language from fMRI Using Brain Adapters and LLMs
+# 🧠🗣️ Brain2Text: Decoding Language from fMRI Using Brain Adapters and LLMs (In Progress)
 
 This project replicates and extends the findings of [Ye et al., *Nature*, 2025], which demonstrated that large language models (LLMs) can decode continuous language from non-invasive fMRI recordings. The goal is to build a robust pipeline from brain signals to text using modern transformer-based language models, and to expand upon the original architecture for deeper insights and improved performance.
 
