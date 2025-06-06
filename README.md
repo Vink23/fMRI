@@ -46,7 +46,7 @@ This phase explores architectural and methodological extensions to the baseline 
   - Investigate best practices for bridging encoder-decoder mismatches
 
 - **Model Variants**:
-  - ✅ Model A: `Brain Adapter → BERT/RoBERTa/NeoBERT → LLaMA 4`
+  - ✅ Model A: `Brain Adapter → BERT/ModernBERT → LLaMA 4`
   - ✅ Model B: `Brain Adapter → T5 (encoder-decoder)`
 
 - **Model Comparisons**:
